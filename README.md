@@ -4,7 +4,7 @@ I found existing audio editors to be clumsy for my music-making workflows, so I 
 
 Some features:
 * Multiple-clip sessions
-* Conventional cut and copy with several different ways to paste - insert or overdup, with or without crossfades to smooth transitions
+* Conventional cut and copy with several different ways to paste - insert or overdub, with or without crossfades to smooth transitions
 * Onset detection to help select material at beat boundaries
 * Selection cropping and silence trimming
 * Tempo detection
@@ -16,4 +16,6 @@ Some features:
 * Noise burst generation to quickly create IRs
 
 Planned features include resampling, transposition, and time stretching.
+
+For more information see the USER GUIDE.
 
